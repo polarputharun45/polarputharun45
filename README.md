@@ -1,5 +1,5 @@
 # 💫 About Me:
-pursuing my bachelor’s degree at Kalasalingam university, <br>Aspiring Software Engineer<br>AI & Machine Learning Student  <br>Python | Data Science | Deep Learning  <br>Open to learning & collaboration<br>
+pursuing my bachelor’s degree at Kalasalingam university, <br>Aspiring Software Engineer<br>AI & Machine Learning Student  <br>Python | Deep Learning  <br>Open to learning & collaboration<br>
 
 
 ## 🌐 Socials:
