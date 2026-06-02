@@ -19,3 +19,7 @@ pursuing my Bachelor’s degree at Kalasalingam University, <br>Aspiring Softwar
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=polarputharun45&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=polarputharun45&layout=compact&theme=dark)
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/polarputharun45/polarputharun45/blob/output/github-contribution-grid-snake.svg)
