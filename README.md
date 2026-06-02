@@ -15,8 +15,7 @@ pursuing my Bachelor’s degree at Kalasalingam University, <br>Aspiring Softwar
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=polarputharun45&show_icons=true&theme=dark)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=polarputharun45&theme=dark)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=polarputharun45&show_icons=true&theme=dark)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=polarputharun45&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=polarputharun45&layout=compact&theme=dark)
