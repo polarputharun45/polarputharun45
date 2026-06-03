@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/polarputharun45/polarputharun45/main/images/banner.png" width="100%">
+</p>
 # 💫 About Me:
 pursuing my Bachelor’s degree at Kalasalingam University, <br>Aspiring Software Engineer<br>Java Developer <br>Java | Spring Boot | MySQL <br>Open to learning & collaboration<br>
 
