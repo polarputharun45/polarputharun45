@@ -15,13 +15,9 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-```md
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=60&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&height=100&lines=R+O+H+I+T+H" />
-
-</div>
-```
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=55&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&height=100&lines=R+O+H+I+T+H" />
+</p>
 
 # 📊 GitHub Stats:
 
