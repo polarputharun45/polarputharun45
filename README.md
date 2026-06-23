@@ -16,10 +16,13 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=55&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&height=100&lines=R+O+H+I+T+H+G+U+R+U+N+A+T+H" />
-</p>
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=60&pause=1000&color=00E5FF&center=true&vCenter=true&width=1100&lines=ROHITH+GURUNATH" />
+
+<img width="700" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00E5FF"/>
+
+</div>
 # 📊 GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=polarputharun45&show_icons=true&theme=dark)
