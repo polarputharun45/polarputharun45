@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=60&pause=1000&color=00E5FF&center=true&vCenter=true&width=1100&lines=ROHITH+GURUNATH" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=75&pause=1000&color=00E5FF&center=true&vCenter=true&width=1300&height=120&lines=ROHITH+GURUNATH" />
 
-<img width="700" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00E5FF"/>
+<img width="850" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00E5FF"/>
 
 </div>
 # 📊 GitHub Stats:
