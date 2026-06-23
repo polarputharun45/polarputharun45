@@ -1,9 +1,7 @@
 <p align="center">
   <img src="./banner.png" width="100%">
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=55&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&height=100&lines=S+R+E+E+R+A+M" />
-</p>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/clusmy__boii__45) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/polarpu-tharun-58a284379/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:99230040897@klu.ac.in) 
