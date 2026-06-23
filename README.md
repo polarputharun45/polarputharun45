@@ -14,6 +14,15 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+```md
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=60&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&height=100&lines=R+O+H+I+T+H" />
+
+</div>
+```
+
 # 📊 GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=polarputharun45&show_icons=true&theme=dark)
