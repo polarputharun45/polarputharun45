@@ -26,11 +26,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=polarputharun45&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" />
+<img src="./profile/stats.svg" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=polarputharun45&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" />
+<img src="./profile/top-langs.svg" />
 
 </div>
 
